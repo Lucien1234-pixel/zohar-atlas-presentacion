@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/portada.svg" alt="BESA · Atlas de la formación del Zohar · Edición 0.7" width="100%"></p>
+<p align="center"><img src="assets/portada.svg" alt="BESA · Atlas de la formación del Zohar · Edición 1.0" width="100%"></p>
 
 # Atlas de la formación del Zohar
 
@@ -7,7 +7,7 @@
 El Atlas de la formación del Zohar organiza la hipótesis de Yehuda Liebes en una cartografía interactiva de personas, textos, tradiciones y relaciones. Cada vínculo permite seguir el testimonio, el argumento del investigador y la forma de representarlo, con sus reservas y referencias.
 
 **BESA · Beit Ein Sof Academy**  
-**Edición 0.7 · aplicación privada · versión congelada**
+**Edición 1.0 · aplicación privada · edición de estudio**
 
 ## Una lectura en varios planos
 
@@ -16,6 +16,7 @@ El proyecto combina un atlas tridimensional, una mesa de relaciones y fichas com
 | Dimensión | Alcance de la edición |
 | --- | --- |
 | Cartografía | 58 nodos, 124 vínculos y siete estratos relativos. |
+| Referencias | Índice por página original, traducción BESA, nota y texto. |
 | Lectura crítica | Testimonios, argumentos, alternativas, auditoría y referencias. |
 | Comparación | Dos fichas alineadas para estudiar coincidencias y diferencias. |
 | Trabajo personal | Cuaderno y recorridos con comentarios del lector. |
@@ -29,7 +30,7 @@ Fuente principal: Yehuda Liebes, «How the Zohar Was Written», *Studies in the 
 
 ## Estado de la edición
 
-La versión 0.7 está congelada para su conservación. La validación incluye 182 fichas y 604 vistas de campos, además de comprobaciones de navegación, referencias, enlaces y presentación en escritorio y móvil.
+La edición 1.0 añade una portada de estudio, un índice de referencias por página y nota, y una copia con motor visual y tipografías locales. La versión 0.7 se conserva como entrega anterior. La validación incluye 182 fichas y 604 vistas de campos, además de comprobaciones de navegación, referencias, enlaces y presentación en escritorio y móvil.
 
 ## Acceso
 
